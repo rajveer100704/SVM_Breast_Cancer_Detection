@@ -29,6 +29,9 @@ Classify breast cancer cases into **malignant** or **benign** using Support Vect
 5. **Visualization**
    - Plotted decision boundaries in 2D PCA space for optimized SVM
    - Visualized how the model separates malignant and benign cases
+   - **Screenshot of the SVM decision boundary** added in the repository for reference
+     <img width="1292" height="818" alt="Screenshot 2025-10-02 214412" src="https://github.com/user-attachments/assets/abd06d76-e429-4497-b286-1d0042047c80" />
+
 
 6. **Evaluation**
    - Evaluated using **confusion matrix** and **classification report**
